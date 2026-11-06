@@ -1,0 +1,7 @@
+downloads/
+*.osz
+failed_downloads*.txt
+venv/
+.venv/
+__pycache__/
+*.pyc
